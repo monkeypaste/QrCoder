@@ -1,7 +1,7 @@
 # Qr Coder
 A Qr code generator for [MonkeyPaste](https://www.monkeypaste.com).
 
-<p style="text-align: center;"><img style="width: 70%" src="icon.png" /></p>
+<p style="text-align: center;"><img style="width: 30%" src="icon.png" /></p>
 
 ## Requirements
 - An installation of [MonkeyPaste](https://www.monkeypaste.com/download) 
